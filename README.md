@@ -8,8 +8,8 @@ to perform database operations (find/add/delete/update/print report).
 The server expects a file named data.txt in the same folder as server.py.
 Each record is one line with fields separated by |. 
 
-example: John|43|123 Apple street|514-3452
-Open **two terminals** in the project folder.
+example: John|43|123 Apple street|514-3452.
+ Open **two terminals** in the project folder.
 
 ## Files
 - server.py - Loads the database and handles client requests over TCP
